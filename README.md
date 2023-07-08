@@ -1,9 +1,9 @@
 # Business Metrics Analysis
-<p> The project involves analyzing the business metrics of Yandex.Afisha, a mobile application that provides information about various events such as movie showings, exhibitions, gigs, and allows users to purchase tickets. The goal of the project is to assist marketing experts from Yandex.Afisha in making effective marketing investments.
+<p> The project involves analyzing the business metrics of Yandex.Afisha, a mobile application that provides information about various events, such as movie showings, exhibitions, gigs, and allows users to purchase tickets. The goal of the project is to assist marketing experts from Yandex.Afisha in making effective marketing investments.
 
-The project requires analyzing server logs containing data on Yandex.Afisha visits spanning from June 2017 to May 2018. Additionally, a dump file with all orders made during that period and marketing expenses statistics are provided.
+The project requires analyzing server logs containing data on Yandex.Afisha visits spanning from June 2017 to May 2018. A dump file with all orders made during that period and marketing expenses statistics are also provided.
   
-<b>Applied skills:</b> Data manipulation, Cohort analysis, Business metrics nad KPI's analysis, Visualization with Seaborn & Plotly
+<b>Applied skills:</b> Data manipulation, Cohort analysis, Business metrics and KPI's analysis, Visualization with Seaborn & Plotly
   
  **Note:** This project is a part of the <a href="https://practicum.com/en-isr/data-analyst/">Practicum Data Analysis program</a> </p>
 
@@ -12,7 +12,7 @@ The project requires analyzing server logs containing data on Yandex.Afisha visi
 The main areas of study in this project are:
 
 1. Understanding user behavior: Analyzing how people use the Yandex.Afisha app and identifying patterns and trends in user interactions.
-2. Identifying purchase patterns: Determining when users typically start to make purchases after using the app and analyzing factors that influence their buying decisions.
+2. Identifying purchase patterns: Determining when users typically start making purchases after using the app and analyzing factors influencing their buying decisions.
 3. Payback analysis: Examining how worthwhile where the investments?
 </p>
 <p><h2>Summary </h2>
